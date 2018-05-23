@@ -1,0 +1,8 @@
+libnetcdf-dev
+netcdf-bin
+ncview
+nco
+cdo
+ncl-ncarg
+libgdal-dev 
+libproj-dev
